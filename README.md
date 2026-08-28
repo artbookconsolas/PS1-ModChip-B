@@ -1,4 +1,4 @@
-# PS1-ModChip-B
+# PS1 ModChip (B)
 PCB para modchips basados en el ATtiny25/45/85 con [PsNee](https://github.com/kalymos/psnee), para consolas Sony PS1 Fat y Slim. Este repositorio indicará compatibilidades, esquemas de instalación (gracias a Quade nuevamente), y el archivo Gerber de la PCB listo para fabricación.
 
 ## 📌 Prefacio
